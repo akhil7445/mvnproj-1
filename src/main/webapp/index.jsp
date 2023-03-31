@@ -7,7 +7,7 @@
     </head>
     <body>
         <h1>Demo Project from Devops</h1>
-        <h1>Hello from SathyaTech</h1>
+        <h1>Hello from Sainath</h1>
         <h1>GoodDay DevOps!</h1>
 
 <table width="100%" bgcolor="orange" align="center" border="2">
